@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm AmoriAdefolahan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in JAVA, C#, PYTHON, Ruby on rails, and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start my career as an entry-level software engineer with a reputed firm driven by technology.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adefolahanamori&label=Profile%20views&color=0e75b6&style=flat" alt="adefolahanamori" /> </p>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
